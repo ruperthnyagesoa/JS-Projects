@@ -58,7 +58,7 @@ fetch('./assets/js/projects.json')
         <p>${proj.desc}</p>
         <div class="btns">
             <a href="projects/${proj.meta}" class="btn"><i class="fas fa-eye"></i> View</a>
-            <a href="https://github.com/ruperthnyagesoa/javascriptprojects/tree/main/projects/${proj.meta}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
+            <a href="https://github.io/ruperthnyagesoa/JS-Projects/tree/main/projects/${proj.meta}" class="btn" target="_blank">Code <i class="fas fa-code"></i></a>
         </div>
         </div>
     </div>`;
